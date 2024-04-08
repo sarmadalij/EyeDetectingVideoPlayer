@@ -21,9 +21,9 @@ Enhances user experience by providing a seamless transition between pausing and 
 ## Video Demonstration:
 
 #####  <p align="center">Video</p>
-<p align="center">
+
 https://github.com/sarmadalij/EyeDetectingVideoPlayer/assets/140231846/bfbf3490-e007-4a75-b3b5-29e97a1e0505
-</p>
+
 
 ## Contributions:
 Contributions are welcome! If you'd like to contribute to EyeDetect Video Player, please fork the repository and submit a pull request with your changes.
